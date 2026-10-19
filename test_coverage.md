@@ -34,7 +34,7 @@
   <summary>Show details</summary>
 	
 - [x] Alternate Start 
-	- [x] Default start
+	- [x] Helgen start
  	- [x] Alternate start(s)	
 - [x] Character creation
 	- [x] makeup
@@ -61,6 +61,7 @@
 - [x] melee
 - [x] power attack
 - [x] killmove
+- [x] Stances
 - [x] bow
 - [x] magic
 - [x] block
@@ -74,7 +75,7 @@
 		- [x] Crouching should remove light
 - [x] Weapons reach
 	- [x] player
-	- [x] npcs hand to hand
+	- [x] npcs
 
 ---
 ### Survival
@@ -111,8 +112,8 @@
 
 ---
 ### Hearthfire & housing
-- [ ] Buy a house and decorate to max level
-- [ ] Build a house and decorate to max
+- [ ] BUY a house and decorate to max level
+- [ ] BUILD a house and decorate to max
 - [ ] Mods
 	- [ ] Buy from Steward
 	- [ ] Extended decoration and cellar
@@ -127,7 +128,7 @@
 ### Cities
 - [x] Whiterun
 	- [x] Inn (cooking pot + oven)
-	- [x] companions
+	- [x] Companions
 	- [x] Palace
 	- [x] Temple (before and after civil war)
 - [x] Solitude
@@ -189,26 +190,26 @@
 - [x] Companions
 - [x] College of Winterhold
 - [x] Thieves guild
-	- [x] Nightingale hall coc NightingaleHall01
+	- [x] Nightingale hall
 - [x] Dark brotherhood
-	- [x] second sanctuary coc DarkBrotherhoodSanctuary  & coc DarkBrotherhoodSanctuary2
+	- [x] second sanctuary
 - [x] Dawnguard
-	- [x] Fort DG  coc DLC1DawnguardHQ01
-	- [x] Volkihar castle coc DLC1VampireCastleGuildhall
+	- [x] Fort DG
+	- [x] Volkihar castle
 
 ---
 ### World
 - [x] Worldmap
 	- [x] Skyrim
-	- [x] Solstheim coc DLC2RavenRock01
-	- [x] Dayspring canyon DLC1HunterWorldFort02
-	- [x] Forgotten Vale coc FalmerValleyStart
+	- [x] Solstheim coc
+	- [x] Dayspring canyon
+	- [x] Forgotten Vale
 	- [x] Apocrypha
-	- [x] Soul Cairn DLC01SoulCairnOrigin
-	- [x] BlackReach coc BlackreachCity
+	- [x] Soul Cairn
+	- [x] BlackReach
 	- [x] Skuldafn
-	- [x] Sovngarde coc Sovngarde
-	- [x] Deepwood Vale coc DeepwoodRedoubt01
+	- [x] Sovngarde
+	- [x] Deepwood Vale
 	- [x] Japhet's Folly
 - [x] roads
 	- [x] Blended roads
@@ -303,23 +304,21 @@ Visit locations affected by:
 	- [x] Bleak Falls Barrow
 	- [ ] TG++ MQ addon : brynjolf during "A Cornered Rat"
 - [ ] Companions 
-	- [ ] check changes made by mods
 	- [ ] AYOP
 - [ ] College of Winterhold
-	- [ ] check changes made by mods
+	- [ ] ICOW
 	- [ ] AYOP
 - [ ] Thieves Guild
-	- [ ] check changes made by mods
+	- [ ] TG++
 - [ ] Dark Brotherhood
 	- [ ] TG++ MQ addon : Delvin during
 		- [ ] "The Silence Has Been Broken" amulete appraisal
 		- [ ] "Hail Sithis !" buy extensions for the 2nd sanctuary
-	- [ ] check changes made by mods
 	- [ ] AYOP
 	- [ ] Innocence lost
 	- [ ] Listen
-	- [ ] Destroy the Dark Brotherhood
-- [ ] Civil War
+	- [ ] Destroy the Dark Brotherhood + Penitus Occulatus
+- [x] Civil War
 - [ ] Dawnguard
 - [ ] Dragonborn DLC
 - [ ] Caugh Red Handed extension (alternative path)

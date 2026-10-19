@@ -301,13 +301,10 @@ Visit locations affected by:
 ### Doing ⌛
 	
 - [ ] Main quest
-	- [x] Bleak Falls Barrow
-	- [ ] TG++ MQ addon : brynjolf during "A Cornered Rat"
-- [ ] Companions 
-	- [ ] AYOP
-- [ ] College of Winterhold
-	- [ ] ICOW
-	- [ ] AYOP
+- [x] Companions 
+	- [x] AYOP
+- [x] College of Winterhold
+	- [x] AYOP
 - [ ] Thieves Guild
 	- [ ] TG++
 - [ ] Dark Brotherhood

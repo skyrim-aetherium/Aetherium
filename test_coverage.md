@@ -112,11 +112,11 @@
 
 ---
 ### Hearthfire & housing
-- [ ] BUY a house and decorate to max level
-- [ ] BUILD a house and decorate to max
-- [ ] Mods
-	- [ ] Buy from Steward
-	- [ ] Extended decoration and cellar
+- [x] BUY a house and decorate to max level
+- [x] BUILD a house and decorate to max
+- [x] Mods
+	- [x] Buy from Steward
+	- [x] Unique Display Room
 
  </details>
  

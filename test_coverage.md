@@ -238,9 +238,9 @@ Visit locations affected by:
 	- [x] farm house near east watchtower
 - [x] SRC (Skyrim Realistic Conquering)
 - [ ] Stendarr Rising
-- [ ] Civil War
-	- [ ] Burn enemy camps after a certain quest in the CW questline
-	- [ ] Siege damage repair
+- [x] Civil War
+	- [x] Burn enemy camps after a certain quest in the CW questline
+	- [x] Siege damage repair
 - [x] Gilderdreen regrown
 	- [x] Before (dead)
 	- [x] "Bad" ending
@@ -300,31 +300,30 @@ Visit locations affected by:
 ## 8 - Quests
 ### Doing ⌛
 	
-- [ ] Main quest
+- [x] Main quest
 - [x] Companions 
 	- [x] AYOP
 - [x] College of Winterhold
 	- [x] AYOP
 - [ ] Thieves Guild
 	- [ ] TG++
-- [ ] Dark Brotherhood
-	- [ ] TG++ MQ addon : Delvin during
-		- [ ] "The Silence Has Been Broken" amulete appraisal
-		- [ ] "Hail Sithis !" buy extensions for the 2nd sanctuary
-	- [ ] AYOP
-	- [ ] Innocence lost
+    - [x] Destroy the Thieves Guild
+- [X] Dark Brotherhood
+	- [x] AYOP
+	- [x] Innocence lost
 	- [ ] Listen
-	- [ ] Destroy the Dark Brotherhood + Penitus Occulatus
+	- [x] Destroy the Dark Brotherhood
+- [ ] Penitus Occulatus
 - [x] Civil War
-- [ ] Dawnguard
-- [ ] Dragonborn DLC
+- [x] Dawnguard
+- [x] Dragonborn DLC
 - [ ] Caugh Red Handed extension (alternative path)
-- [ ] The heart of Dibella
-- [ ] Save the Ice Runner
+- [x] The heart of Dibella
+- [x] Save the Ice Runner
 - [ ] Meridia's Order
 - [ ] Daedric princes (alternatives ending)
 	- [ ] Boethia - Boethia for good guys
-	- [ ] Molag Bal- house of horrors
+	- [x] Molag Bal- house of horrors
 	- [ ] Namira - Namira for good guys
 	- [ ] Peyrite - The Only Cure
 	- [ ] Mephala - Whispering door

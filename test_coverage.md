@@ -37,7 +37,6 @@
 	- [x] Helgen start
  	- [x] Alternate start(s)	
 - [x] Character creation
-	- [x] makeup
 - [x] Movement
 - [x] Camera
 - [x] UI
@@ -76,6 +75,7 @@
 - [x] Weapons reach
 	- [x] player
 	- [x] npcs
+    - [X] monsters 
 
 ---
 ### Survival
@@ -192,7 +192,7 @@
 - [x] Thieves guild
 	- [x] Nightingale hall
 - [x] Dark brotherhood
-	- [x] second sanctuary
+	- [x] dawnstar sanctuary
 - [x] Dawnguard
 	- [x] Fort DG
 	- [x] Volkihar castle
@@ -237,7 +237,7 @@ Visit locations affected by:
 - [x] Environs
 	- [x] farm house near east watchtower
 - [x] SRC (Skyrim Realistic Conquering)
-- [ ] Stendarr Rising
+- [x] Stendarr Rising
 - [x] Civil War
 	- [x] Burn enemy camps after a certain quest in the CW questline
 	- [x] Siege damage repair
@@ -317,7 +317,7 @@ Visit locations affected by:
 - [x] Civil War
 - [x] Dawnguard
 - [x] Dragonborn DLC
-- [ ] Caugh Red Handed extension (alternative path)
+- [x] Caugh Red Handed extension (alternative path)
 - [x] The heart of Dibella
 - [x] Save the Ice Runner
 - [ ] Meridia's Order

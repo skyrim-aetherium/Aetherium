@@ -306,7 +306,8 @@ Visit locations affected by:
 - [x] College of Winterhold
 	- [x] AYOP
 - [ ] Thieves Guild
-	- [ ] TG++
+	- [x] Vanilla path
+    - [x] Alternate paths
     - [x] Destroy the Thieves Guild
 - [X] Dark Brotherhood
 	- [x] AYOP
@@ -320,7 +321,7 @@ Visit locations affected by:
 - [x] Caugh Red Handed extension (alternative path)
 - [x] The heart of Dibella
 - [x] Save the Ice Runner
-- [ ] Meridia's Order
+- [x] Meridia's Order
 - [ ] Daedric princes (alternatives ending)
 	- [ ] Boethia - Boethia for good guys
 	- [x] Molag Bal- house of horrors

@@ -305,7 +305,7 @@ Visit locations affected by:
 	- [x] AYOP
 - [x] College of Winterhold
 	- [x] AYOP
-- [ ] Thieves Guild
+- [x] Thieves Guild
 	- [x] Vanilla path
     - [x] Alternate paths
     - [x] Destroy the Thieves Guild

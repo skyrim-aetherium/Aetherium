@@ -233,7 +233,7 @@ Visit locations affected by:
 	- [x] before dragon attack (not destroyed)
 	- [x] after (destroyed)
 	- [x] after 25 days (repairing)
-	- [ ] after 40 days (repaired)
+	- [x] after 40 days (repaired)
 - [x] Environs
 	- [x] farm house near east watchtower
 - [x] SRC (Skyrim Realistic Conquering)
@@ -298,7 +298,7 @@ Visit locations affected by:
 </details>
 
 ## 8 - Quests
-### Doing ⌛
+### Doing ✅
 	
 - [x] Main quest
 - [x] Companions 
@@ -312,20 +312,14 @@ Visit locations affected by:
 - [X] Dark Brotherhood
 	- [x] AYOP
 	- [x] Innocence lost
-	- [ ] Listen
+	- [x] Listen
 	- [x] Destroy the Dark Brotherhood
-- [ ] Penitus Occulatus
+- [x] Penitus Occulatus
 - [x] Civil War
 - [x] Dawnguard
 - [x] Dragonborn DLC
 - [x] Caugh Red Handed extension (alternative path)
-- [x] The heart of Dibella
 - [x] Save the Ice Runner
 - [x] Meridia's Order
-- [ ] Daedric princes (alternatives ending)
-	- [ ] Boethia - Boethia for good guys
-	- [x] Molag Bal- house of horrors
-	- [ ] Namira - Namira for good guys
-	- [ ] Peyrite - The Only Cure
-	- [ ] Mephala - Whispering door
+- [x] Daedric quests (vanilla + alternatives ending)
 

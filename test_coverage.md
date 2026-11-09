@@ -325,5 +325,5 @@ Visit locations affected by:
 - [x] Meridia's Order
 - [x] Daedric quests (vanilla + alternatives ending)
 
-<details>
+</details>
 

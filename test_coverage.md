@@ -298,7 +298,9 @@ Visit locations affected by:
 </details>
 
 ## 8 - Quests
-### Doing ✅
+### Done ✅
+<details>
+  <summary>Show details</summary>
 	
 - [x] Main quest
 - [x] Companions 
@@ -322,4 +324,6 @@ Visit locations affected by:
 - [x] Save the Ice Runner
 - [x] Meridia's Order
 - [x] Daedric quests (vanilla + alternatives ending)
+
+<details>
 

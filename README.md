@@ -1,6 +1,6 @@
 ![Skyrim Aetherium title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/aetherium_title-1000x300.png)
 
-[Nexus Collection](https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0) | MO2 | Wabbajack | [Load Order](https://loadorderlibrary.com/lists/skyrim-aetherium-2) | [Screenshots](https://github.com/skyrim-aetherium/Aetherium/blob/main/images/screenshots/1.jpg) | [Youtube Trailer](https://www.youtube.com/watch?v=A1CbvUX1j8U) | [Changelog](https://github.com/skyrim-aetherium/Aetherium/blob/main/changelog.md) | [Test Coverage](https://github.com/skyrim-aetherium/Aetherium/blob/main/test_coverage.md) | 
+[Nexus Collection](https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0) | MO2 | Wabbajack | [Load Order](https://loadorderlibrary.com/lists/skyrim-aetherium-2) | [Screenshots](https://github.com/skyrim-aetherium/Aetherium/blob/main/gallery.md) | [Youtube Trailer](https://www.youtube.com/watch?v=A1CbvUX1j8U) | [Changelog](https://github.com/skyrim-aetherium/Aetherium/blob/main/changelog.md) | [Test Coverage](https://github.com/skyrim-aetherium/Aetherium/blob/main/test_coverage.md) | 
 
 **Disclaimer**: This page is a Work in Progress
 

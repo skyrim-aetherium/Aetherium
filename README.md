@@ -1,4 +1,4 @@
-![Skyrim Aetherium title](https://github.com/skyrim-aetherium/Aetherium/blob/main/aetherium_title-1000x300.png)
+![Skyrim Aetherium title](https://github.com/skyrim-aetherium/Aetherium/blob/main/image/aetherium_title-1000x300.png)
 
 [Nexus Collection](https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0) | MO2 | Wabbajack | [Load Order](https://loadorderlibrary.com/lists/skyrim-aetherium-2) | [Screenshots] | [Youtube Trailer](https://www.youtube.com/watch?v=A1CbvUX1j8U) | [Changelog](https://github.com/skyrim-aetherium/Aetherium/blob/main/changelog.md) | [Test Coverage](https://github.com/skyrim-aetherium/Aetherium/blob/main/test_coverage.md) | 
 
@@ -18,13 +18,13 @@ Other links:
 
 #### 📺 Gameplay Trailer : https://www.youtube.com/watch?v=A1CbvUX1j8U
 
-![Summary title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/titles/aetherium_title_summary.png)
+![Summary title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_summary.png)
 - **Features**
 - **Installation**
 - **Getting Started**
 - **Credits**
 
-![Features title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/titles/aetherium_title_features.png)
+![Features title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_features.png)
 - **Plug-and-play** | Beginner friendly
 - **Vanilla++** | Enhanced without becoming a different game - built around **Simonrim** with cherry-picked content from **Enaisiaion** and **colinswrath**
 - **Lore-Friendly** | Every added content blends seamlessly into the world
@@ -51,9 +51,9 @@ Other links:
 If you want to know more about Skyrim Aetherium's features, check this page : [Detailed Features](https://github.com/skyrim-aetherium/Aetherium/blob/main/features.md)
 
 ### 🔵 Screenshots
-Check this page to enjoy some in-game [Screenshots](https://github.com/skyrim-aetherium/Aetherium/blob/main/screenshots)
+Check this page to enjoy some in-game [Screenshots](https://github.com/skyrim-aetherium/Aetherium/blob/main/images/screenshots)
 
-![Installation title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/titles/aetherium_title_installation.png)
+![Installation title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_installation.png)
 ### 🔵 Requirements
 - **130GB** of available disk space
 - **Skyrim Steam** latest version **1.7.104** in **English**
@@ -115,7 +115,7 @@ Skyrim Aetherium was built for optimal balance around the following hardware set
 
 ToDo...
 
-![Credits title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/titles/aetherium_title_credits.png)
+![Credits title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_credits.png)
 
 A huge thanks to these incredible authors whose work helped shape Aetherium.
 

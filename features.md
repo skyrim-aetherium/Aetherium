@@ -1,4 +1,4 @@
-![aetherium divider](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/aetherium_divider-small-1000x100.png)
+![aetherium divider](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/aetherium_divider-small-1000x100.png)
 
 # 🎨 Visual
 - **Optimized & beautiful** - Skyrim is prettier than ever with even better performances thanks to **Community Shaders** and **NAT.CS III**

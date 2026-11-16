@@ -12,7 +12,7 @@
 </p>
   
 
-# Preview
+![Preview title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_preview.png)
 **Aetherium** upgrades Skyrim to modern standards into an improved **Vanilla++** edition while remaining faithful to the original game. Each mod has been carefully selected to deliver a **cohesive**, **balanced**, **lore-friendly** and **stable** experience.
 
 🔵 Aetherium is **plug-and-play** and **pre-configured**. Everything you need is bundled for an easy and smooth installation so you can start your journey right now.
@@ -118,7 +118,7 @@ Skyrim Aetherium was built for optimal balance around the following hardware set
 - Replace the default **TexGen** and **DynDOLOD**  from the collection with the performance version here : [Aetherium SOAP](https://www.nexusmods.com/skyrimspecialedition/mods/186196?tab=files) (parts 5 and 6)
 - **Community Shaders** config menu (F10) has many settings regarding quality/performance. Disabling Screen Space GI will slightly improve performance.
 
-# Getting Started
+![Getting Started title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_getting-started.png)
 <a id="getting-started"></a>
 ToDo...
 

@@ -83,20 +83,20 @@ The collection won't work for any older version.
 Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0
 
 ### 🔵 Wabbajack installation guide
-- Download (Wabbajack.org)[https://www.wabbajack.org/] and place it in a dedicated folder (like: `C:\Wabbajack`)
-- Download (Skyrim Aetherium.wabbajack)[https://github.com/skyrim-aetherium/Aetherium/releases/tag/wabbajack-1.0.0] or find it within Wabbajack's **Browse Modlists** menu
-- Run `Skyrim Aetherium.wabbajack` OR run the installer within Wabbajack
-- Follow the download and installation process
-  - If asked "_files that are not part of the modlist will be deleted_", click **YES**
-- Delete everything within `\downloads` to free some disk space
-- Run `create_aetherium_shortcut.bat` if you want a dedicated shortcut (Located in the root folder of **Skyrim Aetherium**)
-- Run **Skyrim Aetherium**
-- Create a **new** character
-- Read the **Book of Origins** on the table (optional)
-- Interact with the statue
-- Wait for the message "_Aetherium auto-config has finished playing_"
-- Manually save and **RELOAD** the game
-- Go to bed
+1. Download [Wabbajack](https://www.wabbajack.org/) and place it in a dedicated folder (like: `C:\Wabbajack`)
+2. Download [Skyrim Aetherium.wabbajack](https://github.com/skyrim-aetherium/Aetherium/releases/tag/wabbajack-1.0.0) or find it within Wabbajack's **Browse Modlists** menu
+3. Run `Skyrim Aetherium.wabbajack` OR run the installer within Wabbajack
+4. Follow the download and installation process
+    - If asked "_files that are not part of the modlist will be deleted_", click `YES`
+6. Delete everything within `\downloads` to free some disk space (**77GB**)
+7. Run `create_aetherium_shortcut.bat` if you want a dedicated shortcut (Located in the root folder of **Skyrim Aetherium**)
+8. Run **Skyrim Aetherium**
+9. Create a **new** character
+10. Read the **Book of Origins** on the table (optional)
+11. Interact with the statue
+12. Wait for the message "_Aetherium auto-config has finished playing_"
+13. Manually save and **RELOAD** the game
+14. Go to bed
 
 ### 🔵 Recommended Hardware
 Skyrim Aetherium was built for optimal balance around the following hardware setup.
@@ -160,7 +160,7 @@ Celtic divider asset by Shahina Parvin
 Wizard Of The Moon font by RolandHuse
 Nexusmods & Bethesda Softworks
 
-![aetherium divider](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/aetherium_divider-small-1000x100.png)
+![aetherium divider](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/aetherium_divider-small-1000x100.png)
 
 If you like this collection, please endorse the original mods. Their authors deserve far more recognition than I do.
 

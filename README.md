@@ -87,7 +87,7 @@ Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com
 2. Download [Skyrim Aetherium.wabbajack](https://github.com/skyrim-aetherium/Aetherium/releases/tag/wabbajack-1.0.0) or find it within Wabbajack's **Browse Modlists** menu
 3. Run `Skyrim Aetherium.wabbajack` OR run the installer within Wabbajack
 4. Follow the download and installation process
-    - If asked "_files that are not part of the modlist will be deleted_", click `YES`
+    - If asked "_files that are not part of the modlist will be deleted_", click `Continue`
 6. Delete everything within `\downloads` to free some disk space (**77GB**)
 7. Run `create_aetherium_shortcut.bat` if you want a dedicated shortcut (Located in the root folder of **Skyrim Aetherium**)
 8. Run **Skyrim Aetherium**

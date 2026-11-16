@@ -27,8 +27,8 @@
 - [Getting Started](#getting-started)
 - [Credits](#credits)
 
-![Features title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_features.png)
 <a id="features"></a>
+![Features title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_features.png)
 - **Plug-and-play** | Beginner friendly
 - **Vanilla++** | Enhanced without becoming a different game - built around **Simonrim** with cherry-picked content from **Enaisiaion** and **colinswrath**
 - **Lore-Friendly** | Every added content blends seamlessly into the world
@@ -57,8 +57,8 @@ If you want to know more about Skyrim Aetherium's features, check this page : [D
 ### 🔵 Screenshots
 Check this page to enjoy some in-game [Screenshots](https://github.com/skyrim-aetherium/Aetherium/blob/main/images/screenshots)
 
-![Installation title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_installation.png)
 <a id="installation"></a>
+![Installation title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_installation.png)
 ### 🔵 Requirements
 - **130GB** of available disk space
   - **230GB** of total disk space for the **Wabbajack** version (16GB for stock game + 130GB for complete Aetherium modlist + 77GB for downloads folder)
@@ -131,8 +131,8 @@ ToDo...
 ![F.A.Q title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_faq.png)
 Please, read the [F.A.Q](https://github.com/skyrim-aetherium/Aetherium/blob/main/faq.md) before posting a bug or a question. Otherwise, you can reach me out in the [Nexus collection's comments](https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0/comments)
 
-![Credits title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_credits.png)
 <a id="credits"></a>
+![Credits title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_credits.png)
 Huge thanks you to [Spooknik](https://github.com/spooknik) for his wonderful tool [c2mo2](https://github.com/spooknik/collections2mo2) which helped me port the Nexus collection to MO2/Wabbajack and saved me a huge amount of time.
 
 A huge thanks to these incredible authors whose work helped shape Aetherium.

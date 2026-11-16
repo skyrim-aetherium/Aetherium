@@ -85,7 +85,7 @@ Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com
 
 ### 🔵 Wabbajack installation guide
 1. Download [Wabbajack](https://www.wabbajack.org/) and place it in a dedicated folder (like: `C:\Wabbajack`)
-2. Download [Skyrim Aetherium.wabbajack](https://github.com/skyrim-aetherium/Aetherium/releases/tag/wabbajack-1.0.0) or find it within Wabbajack's **Browse lists** menu
+2. Download [Skyrim Aetherium.wabbajack](https://build.wabbajack.org/authored_files/download/Skyrim.Aetherium.wabbajack_dac5f358-0a93-401f-8ac8-dac2a325ad42) or find it within Wabbajack's **Browse lists** menu
 3. Run `Skyrim Aetherium.wabbajack` OR run the installer within Wabbajack
 4. Follow the download and installation process
     - If asked "_files that are not part of the modlist will be deleted_", click `Continue`

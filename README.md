@@ -73,16 +73,10 @@ The collection won't work for any older version.
 
 #### ℹ️ Starting from a fresh, clean Skyrim installation is highly suggested to avoid conflict issues (or use Vortex profiles)
 
-#### Vortex installation guide
+#### Vortex / MO2 installation guide
 <details>
   <summary>Show</summary>
   Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0
-</details>
-
-#### Mod Organizer2 installation guide
-<details>
-  <summary>Show</summary>
-  ToDo
 </details>
 
 #### Wabbajack installation guide

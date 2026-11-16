@@ -69,7 +69,7 @@ Check this page to view some in-game [Screenshots](https://github.com/skyrim-aet
 
 #### ⚠️ Anniversary Edition disclaimer
 The collection was built and tested **exclusively** on **Skyrim Special Edition**. Optional mods are included to provide compatibility with Creation Club content introduced by the Anniversary Edition, but these have not been tested.
-> The worst you can expect when using Skyrim AE with CC content enabled is **minor inconsistencies** or visual glitches affecting Creation Club content **only**.
+> ℹ️ The worst you can expect when using Skyrim AE with CC content enabled is **minor inconsistencies** or visual glitches affecting Creation Club content **only**.
 
 #### ⚠️ Version disclaimer
 Skyrim Aetherium is build for version **1.6.1170** and works out of the box with the latest steam version (**1.7.104**) thanks to **Skyrim Runtime Swapper**.

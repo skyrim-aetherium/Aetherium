@@ -44,4 +44,14 @@
 
 ![screenshot](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/screenshots/22.jpg)
 
+![screenshot](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/screenshots/23.jpg)
+
+![screenshot](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/screenshots/24.jpg)
+
+![screenshot](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/screenshots/25.jpg)
+
+![screenshot](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/screenshots/26.jpg)
+
+![screenshot](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/screenshots/27.jpg)
+
 ![aetherium divider](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/aetherium_divider-small-1000x100.png)

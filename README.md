@@ -123,24 +123,24 @@ Skyrim Aetherium was built for optimal balance around the following hardware set
 ![Getting Started title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_getting-started.png)
 <a id="getting-started"></a>
 The game is a bit different from vanilla, here is the main things you should know before starting a new game:
-- 🔵 Alternate start provides new ways to start your journey while preserving the original beginning. Visit Helgen to start the main quest if you started elsewhere
-- 🔵 Why I Came to Skyrim provides optional starting quests to add more flavor to your character. Read the Book of Origin in the starting cell to choose your backstory.
-- 🔵 Experience makes skill leveling and character leveling independent. You will earn character XP through exploration, quests and by killing things. It allows more build freedom and depth by removing the need to grind skills you have no interest in, allowing more authentic character builds
-- 🔵 Blade & Blunt adds more more depth to combat by introducing meaningful stamina management, attacks of opportunity, timed blocks and injury system. (You can find more details on the mod's page)
-- 🔵 Stances NG introduces 4 new combat stances to add more possibilities to melee combat
-- 🔵 TK Dodge allow you and some NPCs to perform quickstep dodge
-- 🔵 Wheeler adds a quick action wheel to access your favorite items in addition to the vanilla favorite menu
-- 🔵 Apothecary changes healing, magic and stamina potions into effects over time (10sec)
-SunHelm reworks survival with sleep, hunger and thirst management (cold disabled by default). You can ask bar tenders for food and fresh water. You will also be able to refill your bottles from any source of water (rivers, sea and also wells in town)
-- 🔵 Campsite provides furniture you can place by simply dropping them outside of town. Build campfires by activating firewood(3) in your inventory
-- 🔵 Stormcrown adds the Meditate power that you can learn from the Greybeards to strengthen your shouting abilities through the new Dragonborn perk tree
-- 🔵 Hand to Hand adds a new Pugilist skill tree and also merges Lockpicking and Pickpocket into Security
-- 🔵Sacrilege changes vampirism with reverse progression : You will be stronger and have more power when recently fed. You will also grow stronger as you age as a vampire
-- 🔵 Skyrim's Got Talent allows you to play instruments by activating them from your inventory. The more you play, the better you get. The Speech skill tree now has a few skills for Bards. Skilled bards can provide buffs to themselves and their allies
-- 🔵 Skyrim Souls RE - Unpaused Menus makes inventory and lockpicking menus unpaused - the time is slowed when an enemy is nearby
-- 🔵 Grab and Throw any item to distract ennemies or just for fun
-- 🔵 Skyrim Reputation introduces a reputation mechanic to make everyone consider you as the hero or villain you are, without it interfering with your gameplay
-- 🔵 C.O.I.N adds new currencies you can find in dungeons. You can exchange them to Septims from any merchant
+- 🔵 [**Alternate start**](https://www.nexusmods.com/skyrimspecialedition/mods/272) provides new ways to start your journey while preserving the original beginning. Visit **Helgen** to start the main quest if you started elsewhere
+- 🔵 [**Why I Came to Skyrim**](https://www.nexusmods.com/skyrimspecialedition/mods/167166) provides optional starting quests to add more flavor to your character. Read the **Book of Origin** in the starting cell to choose your backstory.
+- 🔵 [**Experience**](https://www.nexusmods.com/skyrimspecialedition/mods/17751) makes skill leveling and character leveling independent. You will earn character XP through exploration, quests and by killing things. It allows more build freedom and depth by removing the need to grind skills you have no interest in, allowing more authentic character builds
+- 🔵 [**Blade & Blunt**](https://www.nexusmods.com/skyrimspecialedition/mods/34549) adds more more depth to combat by introducing meaningful stamina management, attacks of opportunity, timed blocks and injury system. (You can find more details on the mod's page)
+- 🔵 [**Stances NG**](https://www.nexusmods.com/skyrimspecialedition/mods/117986) introduces 4 new combat stances to add more possibilities to melee combat
+- 🔵 [**TK Dodge**](https://www.nexusmods.com/skyrimspecialedition/mods/56956) allow you and some NPCs to perform quickstep dodge
+- 🔵 [**Wheeler**](https://www.nexusmods.com/skyrimspecialedition/mods/97345) adds a quick action wheel to access your favorite items in addition to the vanilla favorite menu
+- 🔵 [**Apothecary**](https://www.nexusmods.com/skyrimspecialedition/mods/52130) changes healing, magic and stamina potions into effects over time (10sec)
+- [**SunHelm**](https://www.nexusmods.com/skyrimspecialedition/mods/39414) reworks survival with sleep, hunger and thirst management (cold disabled by default). You can ask bar tenders for food and fresh water. You will also be able to refill your bottles from any source of water (rivers, sea and also wells in town)
+- 🔵 [**Campsite**](https://www.nexusmods.com/skyrimspecialedition/mods/22353) provides furniture you can place by simply dropping them outside of town. Build campfires by activating firewood(3) in your inventory
+- 🔵 [**Stormcrown**](https://www.nexusmods.com/skyrimspecialedition/mods/90659) adds the **Meditate** power that you can learn from the Greybeards to strengthen your shouting abilities through the new **Dragonborn perk tree**
+- 🔵 [**Hand to Hand**](https://www.nexusmods.com/skyrimspecialedition/mods/59790) adds a new **Pugilist skill tree** and also merges **Lockpicking** and **Pickpocket** into **Security**
+- [🔵](https://www.nexusmods.com/skyrimspecialedition/mods/272)[**Sacrilege**](https://www.nexusmods.com/skyrimspecialedition/mods/42408) changes vampirism with reverse progression : You will be stronger and have more power when recently fed. You will also grow stronger as you age as a vampire
+- 🔵 [**Skyrim's Got Talent**](https://www.nexusmods.com/skyrimspecialedition/mods/50357) allows you to play instruments by activating them from your inventory. The more you play, the better you get. The **Speech** skill tree now has a few skills for **Bards**. Skilled bards can provide buffs to themselves and their allies
+- [🔵](https://www.nexusmods.com/skyrimspecialedition/mods/272)[**Skyrim Souls RE - Unpaused Menus**](https://www.nexusmods.com/skyrimspecialedition/mods/27859) makes inventory and lockpicking menus unpaused - the time is slowed when an enemy is nearby
+- 🔵 [**Grab and Throw**](https://www.nexusmods.com/skyrimspecialedition/mods/120460) any item to distract ennemies or just for fun
+- 🔵 [**Skyrim Reputation**](https://www.nexusmods.com/skyrimspecialedition/mods/22374) introduces a reputation mechanic to make everyone consider you as the hero or villain you are, without it interfering with your gameplay
+- 🔵 [**C.O.I.N**](https://www.nexusmods.com/skyrimspecialedition/mods/51439) adds new currencies you can find in dungeons. You can exchange them to Septims from any merchant
 
 ℹ️ Several new key bindings have been added to the game, reading **Key Bindings** below is **highly** suggested
 
@@ -186,6 +186,7 @@ Several mods of the collection adds new key binding. Here are below the default 
 ℹ️ If you wish to change hotkeys within config files, use this inputs list : [**https://ck.uesp.net/wiki/Input\_Script#DXScanCodes**](https://ck.uesp.net/wiki/Input_Script#DXScanCodes)
 
 <details><summary>⌨️ Keyboard</summary>
+    
 [**Stances NG**](https://www.nexusmods.com/skyrimspecialedition/mods/117986)
 
 - Default stance `X`
@@ -299,28 +300,27 @@ Huge thanks you to [Spooknik](https://github.com/spooknik) for his wonderful too
 
 A huge thanks to these incredible authors whose work helped shape Aetherium.
 
-- SimonMagus and all the Simonrim team
-- EnaiSiaion
-- JaySerpa
-- Flowrifto
-- powerofthree
-- wSkeever
-- jkrojmal
-- Pfuscher
-- Seb263
-- The Community Shaders team & contributors
-- GGUNIT
-- ElSopa
-- Verolevi
-- Sigerious
-- MihailMods
+- [SimonMagus](https://www.nexusmods.com/profile/SimonMagus) and all the Simonrim team
+- [EnaiSiaion](https://www.nexusmods.com/profile/EnaiSiaion)
+- [JaySerpa](https://https://www.nexusmods.com/profile/jayserpa)
+- [Flowrifto](https://www.nexusmods.com/profile/Flowrifto)
+- [powerofthree](https://www.nexusmods.com/profile/powerofthree)
+- [wSkeever](https://www.nexusmods.com/profile/wSkeever/mods?gameId=1704\&sortBy=downloads)
+- [jkrojmal](https://www.nexusmods.com/profile/jkrojmal/mods?gameId=1704\&sortBy=downloads\&page=3)
+- [Pfuscher](https://www.nexusmods.com/profile/Pfuscher/mods?gameId=1704\&sortBy=downloads)
+- [Seb263](https://www.nexusmods.com/profile/Seb263/mods?gameId=1704\&sortBy=endorsements)
+- The [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) team & contributors
+- [GGUNIT](https://www.nexusmods.com/profile/GGUNIT)
+- [ElSopa](https://www.nexusmods.com/profile/ElSopa/mods?gameId=1704)
+- [Verolevi](https://www.nexusmods.com/profile/Verolevi/mods?gameId=1704\&sortBy=downloads\&page=2)
+- [Sigerious](https://www.nexusmods.com/profile/Sigerious/mods?gameId=1704)
+- [MihailMods](https://www.nexusmods.com/profile/MihailMods/mods?gameId=1704)
 
-A very special thanks to **Ershin** for pushing Skyrim to it's next modding era and making me return to the game with his wonderful **Precision** and of course **Open Animation Replacer**.
-Finally, thank you to every mod authors for their work and dedication.
+A very special thanks to [Ershin](https://www.nexusmods.com/profile/Ershin) for pushing Skyrim to it's next modding era and making me return to the game with his wonderful [**Precision**](https://www.nexusmods.com/skyrimspecialedition/mods/72347) and of course [Open Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/92109).
 
-Celtic divider asset by Shahina Parvin
-Wizard Of The Moon font by RolandHuse
-Nexusmods & Bethesda Softworks
+- Celtic divider asset by [**Shahina Parvin**](https://www.vecteezy.com/members/bornostock)
+- [Wizard Of The Moon](https://www.dafont.com/wizard-of-the-moon.font) font by [RolandHuse](https://www.creativefabrica.com/es/designer/roland-huse-design/ref/2092)
+- [Nexusmods](https://www.nexusmods.com/) & [Bethesda Softworks](https://bethesda.net/)
 
 ![aetherium divider](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/aetherium_divider-small-1000x100.png)
 

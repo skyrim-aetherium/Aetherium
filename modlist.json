@@ -1,0 +1,40 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Skyrim Aetherium",
+    "description": "Aetherium is a vanilla++ soft-core modlist that overhaul Skyrim into a complete remade edition. Every mod has been carefully selected to deliver a cohesive, balanced, lore-friendly and stable experience while remaining faithful to the original game.",
+    "author": "Silenteius",
+    "maintainers": [
+      "github/skyrim-aetherium"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Vanilla+",
+	  "Total Overhaul",
+      "SFW",
+      "Steam"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/AetheriumSplash.webp",
+      "readme": "https://github.com/skyrim-aetherium/Aetherium",
+      "download": "https://build.wabbajack.org/authored_files/download/Skyrim.Aetherium.wabbajack_dac5f358-0a93-401f-8ac8-dac2a325ad42",
+      "machineURL": "SkyrimAetherium",
+      "discordURL": ""
+    },
+    "download_metadata": { 
+      "Hash":"sd4OlmNzkGk=",
+	  "Size":6185799,
+	  "NumberOfArchives":894,
+	  "SizeOfArchives":99494382229,
+	  "NumberOfInstalledFiles":128486,
+	  "SizeOfInstalledFiles":156805747519,
+	  "TotalSize":256300129748
+    },
+    "version": "1.0.0"
+  }
+]
+

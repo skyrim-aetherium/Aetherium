@@ -20,6 +20,7 @@
 🔵 Aetherium is also "**start and play**", which means that all added content blends seamlessly into the world without requiring to read extensive documentation to understand the game. Aside for a few gameplay changes and new key bindings, everything is the same as it always was, but better.
 
 #### 📺 Gameplay Trailer : https://www.youtube.com/watch?v=A1CbvUX1j8U
+#### 🖼️ Checkout some in-game screenshots : [Gallery](https://github.com/skyrim-aetherium/Aetherium/blob/main/gallery.md)
 
 ![Summary title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_summary.png)
 - [Features](#features)

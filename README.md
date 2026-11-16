@@ -93,7 +93,7 @@ Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com
     - If asked "_files that are not part of the modlist will be deleted_", click `Continue`
     - If you own the **Anniversary Edition**, run `ModOrganizer.exe` and enable **all** the optional AE compatibility mods at the bottom of the left pane (once Wabbajack is done installing Aetherium)
 7. Delete everything within `\downloads` to free some disk space (**77GB**)
-8. Run `create_aetherium_shortcut.bat` if you want a dedicated shortcut (Located in the root folder of **Skyrim Aetherium**)
+8. Run `create_aetherium_desktop_shortcut.bat` if you want a dedicated desktop shortcut (Located in the root folder of **Skyrim Aetherium**)
 9. Run **Skyrim Aetherium**
 10. Create a **new** character
 11. Read the **Book of Origins** on the table (optional)

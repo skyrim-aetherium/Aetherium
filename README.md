@@ -84,21 +84,23 @@ The collection won't work for any older version.
 Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0
 
 ## 🔵 Wabbajack installation guide
-1. Download [Wabbajack](https://www.wabbajack.org/) and place it in a dedicated folder (like: `C:\Wabbajack`)
-2. Download [Skyrim Aetherium.wabbajack](https://build.wabbajack.org/authored_files/download/Skyrim.Aetherium.wabbajack_dac5f358-0a93-401f-8ac8-dac2a325ad42)
-3. Run `skyrim.aetherium.wabbajack`
-4. Follow the download and installation process
+1. Install Skyrim's latest version through **Steam**, in **English**
+2. Launch it once
+3. Download [Wabbajack](https://www.wabbajack.org/) and place it in a dedicated folder (like: `C:\Wabbajack`)
+4. Download [Skyrim Aetherium.wabbajack](https://build.wabbajack.org/authored_files/download/Skyrim.Aetherium.wabbajack_dac5f358-0a93-401f-8ac8-dac2a325ad42)
+5. Run `skyrim.aetherium.wabbajack`
+6. Follow the download and installation process
     - If asked "_files that are not part of the modlist will be deleted_", click `Continue`
     - If you own the **Anniversary Edition**, run `ModOrganizer.exe` and enable **all** the optional AE compatibility mods at the bottom of the left pane (once Wabbajack is done installing Aetherium)
-6. Delete everything within `\downloads` to free some disk space (**77GB**)
-7. Run `create_aetherium_shortcut.bat` if you want a dedicated shortcut (Located in the root folder of **Skyrim Aetherium**)
-8. Run **Skyrim Aetherium**
-9. Create a **new** character
-10. Read the **Book of Origins** on the table (optional)
-11. Interact with the statue
-12. Wait for the message "_Aetherium auto-config has finished playing_"
-13. Manually save and **RELOAD** the game
-14. Go to bed
+7. Delete everything within `\downloads` to free some disk space (**77GB**)
+8. Run `create_aetherium_shortcut.bat` if you want a dedicated shortcut (Located in the root folder of **Skyrim Aetherium**)
+9. Run **Skyrim Aetherium**
+10. Create a **new** character
+11. Read the **Book of Origins** on the table (optional)
+12. Interact with the statue
+13. Wait for the message "_Aetherium auto-config has finished playing_"
+14. Manually save and **RELOAD** the game
+15. Go to bed
 
 ## 🔵 Recommended Hardware
 Skyrim Aetherium was built for optimal balance around the following hardware setup.

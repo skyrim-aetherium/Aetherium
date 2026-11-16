@@ -288,6 +288,7 @@ To change inputs, check "keyboard" section above. Gamepad has not been tested at
 </details>
 
 ## 🔵 Mods Configuration & Recommended Mods
+ToDo
 
 ![F.A.Q title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_faq.png)
 Please, read the [F.A.Q](https://github.com/skyrim-aetherium/Aetherium/blob/main/faq.md) before posting a bug or a question. Otherwise, you can reach me out in the [Nexus collection's comments](https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0/comments)

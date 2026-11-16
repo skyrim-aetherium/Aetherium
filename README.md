@@ -80,10 +80,10 @@ Version **1.6.1170** should work if you disable **Skyrim Runtime Swapper** (unte
 The collection won't work for any older version.
 
 #### ℹ️ Starting from a fresh, clean Skyrim installation is highly suggested to avoid conflict issues (or use Vortex profiles)
-### 🔵 Vortex / MO2 installation guide
+## 🔵 Vortex / MO2 installation guide
 Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0
 
-### 🔵 Wabbajack installation guide
+## 🔵 Wabbajack installation guide
 1. Download [Wabbajack](https://www.wabbajack.org/) and place it in a dedicated folder (like: `C:\Wabbajack`)
 2. Download [Skyrim Aetherium.wabbajack](https://build.wabbajack.org/authored_files/download/Skyrim.Aetherium.wabbajack_dac5f358-0a93-401f-8ac8-dac2a325ad42)
 3. Run `skyrim.aetherium.wabbajack`
@@ -100,7 +100,7 @@ Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com
 13. Manually save and **RELOAD** the game
 14. Go to bed
 
-### 🔵 Recommended Hardware
+## 🔵 Recommended Hardware
 Skyrim Aetherium was built for optimal balance around the following hardware setup.
 
 #### Optimal Hardware

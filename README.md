@@ -56,6 +56,8 @@ Check this page to enjoy some in-game [Screenshots](https://github.com/skyrim-ae
 ![Installation title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_installation.png)
 ### 🔵 Requirements
 - **130GB** of available disk space
+  - **230GB** of total disk space for the **Wabbajack** version (16GB for stock game + 130GB for complete Aetherium modlist + 77GB for downloads folder)
+  - Wabbajack `\downloads` folder can be deleted after installation to save 77GB
 - **Skyrim Steam** latest version **1.7.104** in **English**
 - Install [Visual C++ Redistributables 2022](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
@@ -74,16 +76,15 @@ The collection won't work for any older version.
 #### ℹ️ Starting from a fresh, clean Skyrim installation is highly suggested to avoid conflict issues (or use Vortex profiles)
 
 #### Vortex / MO2 installation guide
-<details>
-  <summary>Show</summary>
-  Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0
-</details>
+Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0
 
 #### Wabbajack installation guide
-<details>
-  <summary>Show</summary>
-  ToDo
-</details>
+- Download (Wabbajack.org)[https://www.wabbajack.org/] and place it in a dedicated folder (like: `C:\Wabbajack`)
+- Download (Skyrim Aetherium.wabbajack)[] or find it within Wabbajack's "Browse" menu
+- 
+- When asked "_Delete those files_", click **YES**
+- Run `create_aetherium_shortcut.bat` if you want a dedicated shortcut
+- Delete everything within `\downloads` to free some disk space
 
 ### 🔵 Recommended Hardware
 Skyrim Aetherium was built for optimal balance around the following hardware setup.
@@ -106,11 +107,17 @@ Skyrim Aetherium was built for optimal balance around the following hardware set
 - **Community Shaders** config menu (F10) has many settings regarding quality/performance. Disabling Screen Space GI will slightly improve performance.
 
 # Getting Started
-
 ToDo...
 
-![Credits title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_credits.png)
+### 🔵 Gameplay Guide
+### 🔵 Key Bindings
+### 🔵 Mods Configuration
+### 🔵 Recommended Mods
 
+# F.A.Q
+ToDo
+
+![Credits title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_credits.png)
 A huge thanks to these incredible authors whose work helped shape Aetherium.
 
 - SimonMagus and all the Simonrim team

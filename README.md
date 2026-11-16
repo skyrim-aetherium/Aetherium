@@ -89,9 +89,15 @@ Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com
 - Run `Skyrim Aetherium.wabbajack` OR run the installer within Wabbajack
 - Follow the download and installation process
   - If asked "_files that are not part of the modlist will be deleted_", click **YES**
-- Run `create_aetherium_shortcut.bat` if you want a dedicated shortcut (Located in the root folder of **Skyrim Aetherium**)
 - Delete everything within `\downloads` to free some disk space
-- Done !
+- Run `create_aetherium_shortcut.bat` if you want a dedicated shortcut (Located in the root folder of **Skyrim Aetherium**)
+- Run **Skyrim Aetherium**
+- Create a **new** character
+- Read the **Book of Origins** on the table (optional)
+- Interact with the statue
+- Wait for the message "_Aetherium auto-config has finished playing_"
+- Manually save and **RELOAD** the game
+- Go to bed
 
 ### 🔵 Recommended Hardware
 Skyrim Aetherium was built for optimal balance around the following hardware setup.

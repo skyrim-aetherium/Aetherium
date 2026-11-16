@@ -1,13 +1,16 @@
 ![Skyrim Aetherium title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/aetherium_title-1000x300.png)
 
-[Nexus Collection](https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0) | MO2 | Wabbajack | [Load Order](https://loadorderlibrary.com/lists/skyrim-aetherium-2) | [Screenshots](https://github.com/skyrim-aetherium/Aetherium/blob/main/gallery.md) | [Youtube Trailer](https://www.youtube.com/watch?v=A1CbvUX1j8U) | [Changelog](https://github.com/skyrim-aetherium/Aetherium/blob/main/changelog.md) | [Test Coverage](https://github.com/skyrim-aetherium/Aetherium/blob/main/test_coverage.md) | 
-
-**Disclaimer**: This page is a Work in Progress
-
-Other links: 
-- Gameplay Guide
-  - Starting up
-  - Detailed Quests routes (+links to original mods)
+<p align="center">
+    <a href="https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0">Nexus Collection</a> |
+    <a href="https://github.com/skyrim-aetherium/Aetherium">Wabbajack</a> |
+    <a href="https://loadorderlibrary.com/lists/skyrim-aetherium-final">Load Order</a> |
+    <a href="(https://github.com/skyrim-aetherium/Aetherium/blob/main/gallery.md">Screenshots</a> |
+    <a href="https://www.youtube.com/watch?v=A1CbvUX1j8U">Youtube Trailer</a> |
+    <a href="faq.md">F.A.Q</a> |
+    <a href="https://github.com/skyrim-aetherium/Aetherium/blob/main/test_coverage.md">Test Coverage</a> |
+    <a href="https://github.com/skyrim-aetherium/Aetherium/blob/main/changelog.md">Changelog</a> |
+</p>
+  
 
 # Preview
 **Aetherium** upgrades Skyrim to modern standards into an improved **Vanilla++** edition while remaining faithful to the original game. Each mod has been carefully selected to deliver a **cohesive**, **balanced**, **lore-friendly** and **stable** experience.
@@ -19,12 +22,13 @@ Other links:
 #### 📺 Gameplay Trailer : https://www.youtube.com/watch?v=A1CbvUX1j8U
 
 ![Summary title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_summary.png)
-- **Features**
-- **Installation**
-- **Getting Started**
-- **Credits**
+- [Features](#features)
+- [Installation](#installation)
+- [Getting Started](#getting-started)
+- [Credits](#credits)
 
 ![Features title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_features.png)
+<a id="features"></a>
 - **Plug-and-play** | Beginner friendly
 - **Vanilla++** | Enhanced without becoming a different game - built around **Simonrim** with cherry-picked content from **Enaisiaion** and **colinswrath**
 - **Lore-Friendly** | Every added content blends seamlessly into the world
@@ -54,6 +58,7 @@ If you want to know more about Skyrim Aetherium's features, check this page : [D
 Check this page to enjoy some in-game [Screenshots](https://github.com/skyrim-aetherium/Aetherium/blob/main/images/screenshots)
 
 ![Installation title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_installation.png)
+<a id="installation"></a>
 ### 🔵 Requirements
 - **130GB** of available disk space
   - **230GB** of total disk space for the **Wabbajack** version (16GB for stock game + 130GB for complete Aetherium modlist + 77GB for downloads folder)
@@ -80,11 +85,13 @@ Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com
 
 #### Wabbajack installation guide
 - Download (Wabbajack.org)[https://www.wabbajack.org/] and place it in a dedicated folder (like: `C:\Wabbajack`)
-- Download (Skyrim Aetherium.wabbajack)[] or find it within Wabbajack's "Browse" menu
-- 
-- When asked "_Delete those files_", click **YES**
-- Run `create_aetherium_shortcut.bat` if you want a dedicated shortcut
+- Download (Skyrim Aetherium.wabbajack)[https://github.com/skyrim-aetherium/Aetherium/releases/tag/wabbajack-1.0.0] or find it within Wabbajack's **Browse Modlists** menu
+- Run `Skyrim Aetherium.wabbajack` OR run the installer within Wabbajack
+- Follow the download and installation process
+  - If asked "_files that are not part of the modlist will be deleted_", click **YES**
+- Run `create_aetherium_shortcut.bat` if you want a dedicated shortcut (Located in the root folder of **Skyrim Aetherium**)
 - Delete everything within `\downloads` to free some disk space
+- Done !
 
 ### 🔵 Recommended Hardware
 Skyrim Aetherium was built for optimal balance around the following hardware setup.
@@ -107,17 +114,22 @@ Skyrim Aetherium was built for optimal balance around the following hardware set
 - **Community Shaders** config menu (F10) has many settings regarding quality/performance. Disabling Screen Space GI will slightly improve performance.
 
 # Getting Started
+<a id="getting-started"></a>
 ToDo...
 
 ### 🔵 Gameplay Guide
+ + detailed quest routes
 ### 🔵 Key Bindings
 ### 🔵 Mods Configuration
 ### 🔵 Recommended Mods
 
-# F.A.Q
-ToDo
+![F.A.Q title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_faq.png)
+Please, read the [F.A.Q](https://github.com/skyrim-aetherium/Aetherium/blob/main/faq.md) before posting a bug or a question. Otherwise, you can reach me out in the [Nexus collection's comments](https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0/comments)
 
 ![Credits title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_credits.png)
+<a id="credits"></a>
+Huge thanks you to [Spooknik](https://github.com/spooknik) for his wonderful tool [c2mo2](https://github.com/spooknik/collections2mo2) which helped me port the Nexus collection to MO2/Wabbajack and saved me a huge amount of time.
+
 A huge thanks to these incredible authors whose work helped shape Aetherium.
 
 - SimonMagus and all the Simonrim team

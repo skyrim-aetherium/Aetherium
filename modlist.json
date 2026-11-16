@@ -19,7 +19,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/AetheriumSplash.webp",
+      "image": "https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/AetheriumSplash-1920x1080.webp",
       "readme": "https://github.com/skyrim-aetherium/Aetherium",
       "download": "https://build.wabbajack.org/authored_files/download/Skyrim.Aetherium.wabbajack_dac5f358-0a93-401f-8ac8-dac2a325ad42",
       "machineURL": "SkyrimAetherium",

@@ -89,7 +89,7 @@ Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com
 3. Run `Skyrim Aetherium.wabbajack` OR run the installer within Wabbajack
 4. Follow the download and installation process
     - If asked "_files that are not part of the modlist will be deleted_", click `Continue`
-    - If you own the **Anniversary Edition**, run `ModOrganizer.exe` and enable **all** the optional AE compatibility mods at the bottom of the left pane
+    - If you own the **Anniversary Edition**, run `ModOrganizer.exe` and enable **all** the optional AE compatibility mods at the bottom of the left pane (once Wabbajack is done installing Aetherium)
 6. Delete everything within `\downloads` to free some disk space (**77GB**)
 7. Run `create_aetherium_shortcut.bat` if you want a dedicated shortcut (Located in the root folder of **Skyrim Aetherium**)
 8. Run **Skyrim Aetherium**

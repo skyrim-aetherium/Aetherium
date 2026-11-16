@@ -56,7 +56,7 @@
 If you want to know more about Skyrim Aetherium's features, check this page : [Detailed Features](https://github.com/skyrim-aetherium/Aetherium/blob/main/features.md)
 
 ### 🔵 Screenshots
-Check this page to enjoy some in-game [Screenshots](https://github.com/skyrim-aetherium/Aetherium/blob/main/images/screenshots)
+Check this page to view some in-game [Screenshots](https://github.com/skyrim-aetherium/Aetherium/blob/main/gallery.md)
 
 <a id="installation"></a>
 ![Installation title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_installation.png)

@@ -122,13 +122,172 @@ Skyrim Aetherium was built for optimal balance around the following hardware set
 
 ![Getting Started title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_getting-started.png)
 <a id="getting-started"></a>
-ToDo...
+The game is a bit different from vanilla, here is the main things you should know before starting a new game:
+- 🔵 Alternate start provides new ways to start your journey while preserving the original beginning. Visit Helgen to start the main quest if you started elsewhere
+- 🔵 Why I Came to Skyrim provides optional starting quests to add more flavor to your character. Read the Book of Origin in the starting cell to choose your backstory.
+- 🔵 Experience makes skill leveling and character leveling independent. You will earn character XP through exploration, quests and by killing things. It allows more build freedom and depth by removing the need to grind skills you have no interest in, allowing more authentic character builds
+- 🔵 Blade & Blunt adds more more depth to combat by introducing meaningful stamina management, attacks of opportunity, timed blocks and injury system. (You can find more details on the mod's page)
+- 🔵 Stances NG introduces 4 new combat stances to add more possibilities to melee combat
+- 🔵 TK Dodge allow you and some NPCs to perform quickstep dodge
+- 🔵 Wheeler adds a quick action wheel to access your favorite items in addition to the vanilla favorite menu
+- 🔵 Apothecary changes healing, magic and stamina potions into effects over time (10sec)
+SunHelm reworks survival with sleep, hunger and thirst management (cold disabled by default). You can ask bar tenders for food and fresh water. You will also be able to refill your bottles from any source of water (rivers, sea and also wells in town)
+- 🔵 Campsite provides furniture you can place by simply dropping them outside of town. Build campfires by activating firewood(3) in your inventory
+- 🔵 Stormcrown adds the Meditate power that you can learn from the Greybeards to strengthen your shouting abilities through the new Dragonborn perk tree
+- 🔵 Hand to Hand adds a new Pugilist skill tree and also merges Lockpicking and Pickpocket into Security
+- 🔵Sacrilege changes vampirism with reverse progression : You will be stronger and have more power when recently fed. You will also grow stronger as you age as a vampire
+- 🔵 Skyrim's Got Talent allows you to play instruments by activating them from your inventory. The more you play, the better you get. The Speech skill tree now has a few skills for Bards. Skilled bards can provide buffs to themselves and their allies
+- 🔵 Skyrim Souls RE - Unpaused Menus makes inventory and lockpicking menus unpaused - the time is slowed when an enemy is nearby
+- 🔵 Grab and Throw any item to distract ennemies or just for fun
+- 🔵 Skyrim Reputation introduces a reputation mechanic to make everyone consider you as the hero or villain you are, without it interfering with your gameplay
+- 🔵 C.O.I.N adds new currencies you can find in dungeons. You can exchange them to Septims from any merchant
 
-### 🔵 Gameplay Guide
- + detailed quest routes
-### 🔵 Key Bindings
-### 🔵 Mods Configuration
-### 🔵 Recommended Mods
+ℹ️ Several new key bindings have been added to the game, reading **Key Bindings** below is **highly** suggested
+
+### ☠️ Game Difficulty
+
+The game will be slightly harder and slower than vanilla. The entire progression, economy and combat systems have been reworked to achieve a slower paced journey with a meaningful progression and a challenging, yet satisfying experience. Those are unrelated to the in-game difficulty settings.
+
+Here are the changes you can expect from the pre-configured version of **Skyrim Aetherium**:
+
+<details>
+    <summary>Detailed difficulty settings</summary>
+    
+- **Experience** is now earned through exploration, questing and combat - The leveling pacing isn't impacted much
+- **Slower progression** for the early levels
+- **Loot found** is reduced and food is sometimes spoiled
+- **Unpaused menus** with time slowed in combat. Applies only to menus in which **you can see** around you and to lockpiking/pickpocket. Map and leveling menus aren't affected
+- **Trading** - Merchants will be tougher negotiators
+- **Combat modifications** introduces an injury system and meaningful stamina management
+- **Dodge quickstep** - Adds defensive option and improves the survivability of light-armored characters
+- **Potions** turn into healing over time (10s) and do not stack - Applies to healing, stamina and magicka
+- Some NPCs can use potions
+- Some NPCs can dodge your attacks
+- **Suspicious guards** - Guards may check bags and investigate suspicious behavior (being a Khajiit or an Argonian is considered suspicious in Skyrim...)
+- **NPC combat AI** improved
+- **Soft survival** enabled by default - With the mod [SunHelm Survival and needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
+- **Quest pacing** - The main quest and main factions quests have more side quests and progression requirements so you don't become Archmage after 3 days at the college
+
+Most of these settings can be easily tweaked from the **Mod Configuration Menu (MCM)** and even disabled.
+
+> ℹ️ See the [F.A.Q](https://github.com/skyrim-aetherium/Aetherium/blob/main/faq.md) to customize the difficulty of your game
+
+### Soft-core
+
+The overall vision of **Skyrim Aetherium** is to bring more challenge and meaning to the world without changing the game into a grinding chore. The pre-configuration of **Skyrim Aetherium** leans toward a "**soft-core**" experience balanced around a slower progression than vanilla while preserving character growth.
+
+However, balance and difficulty are subjective: this is why I made a guide in the **F.A.Q** to help you tweak the collection's difficulty to your taste. Take a look at the **Suggested Mods** chapter for even more ideas.
+
+</details>
+
+## 🔵 Key Bindings
+Several mods of the collection adds new key binding. Here are below the default configuration and how to change them to your liking.
+
+ℹ️ If you wish to change hotkeys within config files, use this inputs list : [**https://ck.uesp.net/wiki/Input\_Script#DXScanCodes**](https://ck.uesp.net/wiki/Input_Script#DXScanCodes)
+
+<details><summary>⌨️ Keyboard</summary>
+[**Stances NG**](https://www.nexusmods.com/skyrimspecialedition/mods/117986)
+
+- Default stance `X`
+- High stance `F1`
+- Mid stance `F2`
+- Low stance `F3`
+- can be changed in `\Skyrim Special Edition\Data\SKSE\Plugins\StancesNG.toml`
+
+[**Read the Room**](https://www.nexusmods.com/skyrimspecialedition/mods/77605)
+
+- `H` to unequip/equip helmet - Helmet is automatically equipped when entering combat
+- Can be changed in "Read the Room" **MCM**
+
+[**TK Dodge RE**](https://www.nexusmods.com/skyrimspecialedition/mods/56956) (quickstep)
+
+- `Middle_Mouse_Button`&#x20;
+- Can be changed in `\Skyrim Special Edition\Data\SKSE\Plugins\TK Dodge RE.ini`
+
+[**Wheeler**](https://www.nexusmods.com/skyrimspecialedition/mods/97345) (quick actions wheel)
+
+- `Mouse_button_5`
+- Press in game to use the wheel
+- Press in menu to customize the wheel
+- Wheeler can be customized using **dMenu** which you can open with the `home` key
+
+[**HorsePower**](https://www.nexusmods.com/skyrimspecialedition/mods/169335)
+
+- Long press `E` to dismount
+
+[**Bestiary**](https://www.nexusmods.com/skyrimspecialedition/mods/123521?tab=description)
+
+- `K` to open the bestiary
+- You can find the bestiary in the main menu, in the **system** tab
+
+[**Better Third Person Selection**](https://www.nexusmods.com/skyrimspecialedition/mods/64339)
+
+- `Shift` **+** `Middle_Mouse_Scroll` to navigate loot (on the ground) in 3rd person
+
+[**Better Grabbing**](https://www.nexusmods.com/skyrimspecialedition/mods/134769)
+
+- `LMB` to rotate objects
+- `RMB` to move objects on **X** and **Y** axis
+- `Middle_Mouse_Button` to move objects on **Z** axis
+
+[**Grab and Throw**](https://www.nexusmods.com/skyrimspecialedition/mods/120460)
+
+- Grab any item with `E` and press `R` (sheath) to throw. The longer the press, the further you throw
+</details>
+
+<details><summary>🎮 Gamepad</summary>
+To change inputs, check "keyboard" section above. Gamepad has not been tested at all, visite each mod's page for dedicated config.
+
+> ⚠️ Using an extended hotkey manager is highly suggested for gamepad
+
+[**Stances NG**](https://www.nexusmods.com/skyrimspecialedition/mods/117986)
+
+- `None` by default
+- Update `\Skyrim Special Edition\Data\SKSE\Plugins\StancesNG.toml` by using it's [**official documentation**](https://codeberg.org/Styyx/StancesSKSE/src/branch/main/Readme.md)
+
+[**Read the Room**](https://www.nexusmods.com/skyrimspecialedition/mods/77605)
+
+- `None` by default
+- You can change MCM settings to auto unequipe in town
+- Helmet is automatically equipped when entering combat
+
+[**TK Dodge RE**](https://www.nexusmods.com/skyrimspecialedition/mods/56956) (quickstep)
+
+- `None` by default
+- Update `\Skyrim Special Edition\Data\SKSE\Plugins\TK Dodge RE.ini` and either set `EnableSprintKeyDodge` to `true` or define your own input under `DodgeHotkey`
+
+[**Wheeler**](https://www.nexusmods.com/skyrimspecialedition/mods/97345) (quick actions wheel)
+
+- `LT`
+- Press in game to use the wheel
+- Press in menu to customize the wheel
+- Wheeler can be customized using **dMenu** which you can open with the `home` key
+
+[**HorsePower**](https://www.nexusmods.com/skyrimspecialedition/mods/169335)
+
+- Long press to dismount
+
+[**Bestiary**](https://www.nexusmods.com/skyrimspecialedition/mods/123521?tab=description)
+
+- You can find the bestiary in the main menu, in the **system** tab
+
+[**Better Third Person Selection**](https://www.nexusmods.com/skyrimspecialedition/mods/64339)
+
+- `None` by default
+- Check this post to set it up : [**Nexus post**](https://www.nexusmods.com/skyrimspecialedition/mods/64339?tab=posts\&comment_id=113225413)
+
+[**Better Grabbing**](https://www.nexusmods.com/skyrimspecialedition/mods/134769)
+
+- `LT` + `Analog` to rotate objects
+- `RT` + `Analog` or `D-pad` to move objects on **X** and **Y** axis
+- `LB` + `Analog` to move objects on **Z** axis
+
+[**Grab and Throw**](https://www.nexusmods.com/skyrimspecialedition/mods/120460)
+
+- Grab any item with `A` and press `X` (sheath) to throw. The longer the press, the further you throw
+</details>
+
+## 🔵 Mods Configuration & Recommended Mods
 
 ![F.A.Q title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_faq.png)
 Please, read the [F.A.Q](https://github.com/skyrim-aetherium/Aetherium/blob/main/faq.md) before posting a bug or a question. Otherwise, you can reach me out in the [Nexus collection's comments](https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0/comments)

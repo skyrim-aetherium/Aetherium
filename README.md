@@ -8,7 +8,7 @@
     <a href="https://www.youtube.com/watch?v=A1CbvUX1j8U">Youtube Trailer</a> |
     <a href="faq.md">F.A.Q</a> |
     <a href="https://github.com/skyrim-aetherium/Aetherium/blob/main/test_coverage.md">Test Coverage</a> |
-    <a href="https://github.com/skyrim-aetherium/Aetherium/blob/main/changelog.md">Changelog</a> |
+    <a href="https://github.com/skyrim-aetherium/Aetherium/blob/main/changelog.md">Changelog</a>
 </p>
   
 
@@ -78,8 +78,9 @@ Version **1.6.1170** should work if you disable **Skyrim Runtime Swapper** (unte
 
 
 The collection won't work for any older version.
+    
+>ℹ️ Starting from a fresh, clean Skyrim installation is highly suggested to avoid conflict issues (or use Vortex profiles)
 
-#### ℹ️ Starting from a fresh, clean Skyrim installation is highly suggested to avoid conflict issues (or use Vortex profiles)
 ## 🔵 Vortex / MO2 installation guide
 Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0
 
@@ -118,9 +119,14 @@ Skyrim Aetherium was built for optimal balance around the following hardware set
 - RAM : 16 GB
 
 ### 🥔 Tips for low-end Hardware
+<details>
+    <summary>Click to show tips</summary>
+    
 - If you have a weak computer, I strongly advise to use [Texture Downscaler](https://www.nexusmods.com/skyrimspecialedition/mods/187049), it does miracles. I provided a default config for it here : [Aetherium SOAP](https://www.nexusmods.com/skyrimspecialedition/mods/186196?tab=files)
 - Replace the default **TexGen** and **DynDOLOD**  from the collection with the performance version here : [Aetherium SOAP](https://www.nexusmods.com/skyrimspecialedition/mods/186196?tab=files) (parts 5 and 6)
 - **Community Shaders** config menu (F10) has many settings regarding quality/performance. Disabling Screen Space GI will slightly improve performance.
+
+</details>
 
 ![Getting Started title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_getting-started.png)
 <a id="getting-started"></a>
@@ -144,7 +150,7 @@ The game is a bit different from vanilla, here is the main things you should kno
 - 🔵 [**Skyrim Reputation**](https://www.nexusmods.com/skyrimspecialedition/mods/22374) introduces a reputation mechanic to make everyone consider you as the hero or villain you are, without it interfering with your gameplay
 - 🔵 [**C.O.I.N**](https://www.nexusmods.com/skyrimspecialedition/mods/51439) adds new currencies you can find in dungeons. You can exchange them to Septims from any merchant
 
-ℹ️ Several new key bindings have been added to the game, reading **Key Bindings** below is **highly** suggested
+ℹ️ Several new key bindings have been added to the game, reading [Key Bindings](#key-bindings) below is **highly** suggested
 
 ### ☠️ Game Difficulty
 
@@ -153,7 +159,7 @@ The game will be slightly harder and slower than vanilla. The entire progression
 Here are the changes you can expect from the pre-configured version of **Skyrim Aetherium**:
 
 <details>
-    <summary>Detailed difficulty settings</summary>
+    <summary>Click to show difficulty tweaks</summary>
     
 - **Experience** is now earned through exploration, questing and combat - The leveling pacing isn't impacted much
 - **Slower progression** for the early levels
@@ -182,6 +188,7 @@ However, balance and difficulty are subjective: this is why I made a guide in th
 
 </details>
 
+<a id="key-bindings"></a>
 ## 🔵 Key Bindings
 Several mods of the collection adds new key binding. Here are below the default configuration and how to change them to your liking.
 

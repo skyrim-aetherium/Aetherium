@@ -23,6 +23,7 @@ Many mods can be manually configured from their `.ini` files usually located her
 - For [**Compass Navigation Overhaul**](https://www.nexusmods.com/skyrimspecialedition/mods/74484) customization
 </details>
 
+<a id="brightness"></a>
 <details><summary>🔆 Brightness & Lighting</summary>
   
 You can change interior brightness from [**Lux**](https://www.nexusmods.com/skyrimspecialedition/mods/43158) (main) FOMOD - update accordingly [**Lux Via**](https://www.nexusmods.com/skyrimspecialedition/mods/63588) and [**Lux CS**](https://www.nexusmods.com/skyrimspecialedition/mods/153919) FOMODs.

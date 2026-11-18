@@ -5,12 +5,12 @@
 - **High definition** textures with high poly meshes and parallax by [Pfuscher's Skyrim 202X](https://www.nexusmods.com/profile/Pfuscher/mods?gameId=1704)
 - **Dynamic lights**, shadows and shaders with [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158) and [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
 - **Flora & Trees** overhauled with [Nature of the Wild Lands](https://www.nexusmods.com/skyrimspecialedition/mods/63604) and [Folkvangr](https://www.nexusmods.com/skyrimspecialedition/mods/44899)
-- E**nhanced character creation** - More possibilities, haircuts, face paints, beards, ...
+- **Enhanced character creation** - More possibilities, haircuts, face paints, beards, ...
 - **Added warpaints** - Available under "Makeup" tab in character creation
 - **Modern animations** (1st and 3rd person) for both the Player and NPCs
 - **Physics** for clothing, capes, hair and tails
 - **Complete NPCs makeover** - Lore-friendly overhaul of every races and faces
-- **JK's Skyrim** enhances every major town and place
+- Enhanced every major town and place with [JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289)
 - **Katanas** & **Spears** reanimated
 - **New VFX** for spells, flames and dragon breath
 

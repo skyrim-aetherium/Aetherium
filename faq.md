@@ -65,7 +65,7 @@ Equipped and favorited equipment are dynamically displayed with [Immersive Equip
 
 ### 🔵 How to disable the runes when casting magic ?
 
-- For the runes on the hands: disable [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456),[ Strange Runes Scale options](https://www.nexusmods.com/skyrimspecialedition/mods/147832) and [Alternative runes - Strange runes](https://www.nexusmods.com/skyrimspecialedition/mods/137611)
+- For the runes on the hands: disable [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456), [Strange Runes Scale options](https://www.nexusmods.com/skyrimspecialedition/mods/147832) and [Alternative runes - Strange runes](https://www.nexusmods.com/skyrimspecialedition/mods/137611)
 - For the runes around the arm: disable [Runic Arts - Integrated](https://www.nexusmods.com/skyrimspecialedition/mods/171939) (or use the smaller version)
 
 ### 🔵 What about other versions of the game?

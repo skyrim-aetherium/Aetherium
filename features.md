@@ -62,9 +62,9 @@
 - **Better Grabbing** - Allow you to precisely move and rotate object to decorate your home and annoy NPC
 
 # 🖥️ UI & HUD
-- Modern and intuitive **UI**
-- **Dear Diary Paper SkyUI** - Classic RPG appearance, like Oblivion
-- Improved, immersive and customizable **HUD** - Only what you need, only what you want
+- Modern and intuitive **UI** with [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
+- Improved, immersive and customizable **HUD** with [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463) - Only what you need, only what you want
+- Classic RPG menu appearance - Oblivion inspired [Dear Diary Paper SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/23010)
 - **Action wheel** for more shortcuts
 - **Extended character creation** menu with RaceMenu
 

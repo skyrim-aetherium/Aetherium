@@ -57,7 +57,7 @@ Equipped and favorited equipment are dynamically displayed with [Immersive Equip
 
 ### 🔵 Why is my game so dark/bright ?
 
-**Skyrim Aetherium** aims for an immersive and realistic lighting while maintaining minimal visibility. See **Mods Configuration** for brightness/lighting tips.&#x20;
+**Skyrim Aetherium** aims for an immersive and realistic lighting while maintaining minimal visibility. See [Brightness & Lighting](https://github.com/skyrim-aetherium/Aetherium/blob/main/mods_configuration.md#brightness) for tips.&#x20;
 
 ### 🔵 Why is the "Makeup" tab empty in character creation ?
 

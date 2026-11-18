@@ -16,7 +16,7 @@
 
 
 # ⚔️ Gameplay
-- Built around [Simonrim](https://www.nexusmods.com/games/skyrimspecialedition/collections/z5ju7v) with cherry-picked content from [Enaisiaion](https://www.nexusmods.com/profile/EnaiSiaion/mods) and [colinswrath]
+- Built around [Simonrim](https://www.nexusmods.com/games/skyrimspecialedition/collections/z5ju7v) with cherry-picked content from [Enaisiaion](https://www.nexusmods.com/profile/EnaiSiaion/mods) and [colinswrath](https://www.nexusmods.com/profile/colinswrath/mods?gameId=1704)
 - **Combat overhaul** - Engaging, balanced and tense combat thanks to Precision, [Blade & Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), [Sanguine Symphony](https://www.nexusmods.com/skyrimspecialedition/mods/148388), [Dismembering Framework](https://www.nexusmods.com/skyrimspecialedition/mods/126203) and completely remade animations from the [SIGMA](https://www.nexusmods.com/skyrimspecialedition/mods/164551) series
 - **Reimagined progression** with [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) - Skill leveling and character leveling are independent : progression is achieved through quests and exploration (see Gameplay Overview below) 
 - **Combat Stances** (optional) - 4 new combat stances from [Stances NG](https://www.nexusmods.com/skyrimspecialedition/mods/117986) for every melee weapons. They only change animations but allow more depth to combat and adaptation to environment (thrust attacks in tunnels, horizontal sweeps against multiple enemies, etc...). And it looks cool

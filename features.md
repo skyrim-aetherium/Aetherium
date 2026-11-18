@@ -1,10 +1,10 @@
 ![aetherium divider](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/aetherium_divider-small-1000x100.png)
 
 # 🎨 Visual
-- **Optimized & beautiful** - Skyrim is prettier than ever with even better performances thanks to **Community Shaders** and **NAT.CS III**
-- **High definition** textures with high poly meshes and parallax by **Pfuscher's Skyrim 202X**
-- **Dynamic lights**, shadows and shaders with **Lux** and **EmbersXD**
-- **Flora & Trees** overhauled with Nature of the Wild Lands and Folkvangr
+- **Optimized & beautiful** - Skyrim is prettier than ever with even better performances thanks to [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) and [NAT.CS III](https://www.nexusmods.com/skyrimspecialedition/mods/139567)
+- **High definition** textures with high poly meshes and parallax by [Pfuscher's Skyrim 202X](https://www.nexusmods.com/profile/Pfuscher/mods?gameId=1704)
+- **Dynamic lights**, shadows and shaders with [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158) and [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
+- **Flora & Trees** overhauled with [Nature of the Wild Lands](https://www.nexusmods.com/skyrimspecialedition/mods/63604) and [Folkvangr](https://www.nexusmods.com/skyrimspecialedition/mods/44899)
 - E**nhanced character creation** - More possibilities, haircuts, face paints, beards, ...
 - **Added warpaints** - Available under "Makeup" tab in character creation
 - **Modern animations** (1st and 3rd person) for both the Player and NPCs
@@ -16,26 +16,26 @@
 
 
 # ⚔️ Gameplay
-- Built Around **Simonrim** with cherry-picked content from **Enaisiaion** and **colinswrath**
-- **Combat overhaul** - Engaging, balanced and tense combat thanks to Precision, Blade & Blunt, Sanguine Symphony, Dismemberment Framework and completely remade animations
-- **Reimagined progression** with **Experience** - Skill leveling and character leveling are independent : progression is achieved through quests and exploration (see Gameplay Overview below) 
-- **Combat Stances** (optional) - 4 new combat stances from Stances NG for every melee weapons. They only change animations but allow more depth to combat and adaptation to environment (thrust attacks in tunnels, horizontal sweeps against multiple enemies, etc...). And it looks cool
+- Built around [Simonrim](https://www.nexusmods.com/games/skyrimspecialedition/collections/z5ju7v) with cherry-picked content from [Enaisiaion](https://www.nexusmods.com/profile/EnaiSiaion/mods) and [colinswrath]
+- **Combat overhaul** - Engaging, balanced and tense combat thanks to Precision, [Blade & Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), [Sanguine Symphony](https://www.nexusmods.com/skyrimspecialedition/mods/148388), [Dismembering Framework](https://www.nexusmods.com/skyrimspecialedition/mods/126203) and completely remade animations from the [SIGMA](https://www.nexusmods.com/skyrimspecialedition/mods/164551) series
+- **Reimagined progression** with [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) - Skill leveling and character leveling are independent : progression is achieved through quests and exploration (see Gameplay Overview below) 
+- **Combat Stances** (optional) - 4 new combat stances from [Stances NG](https://www.nexusmods.com/skyrimspecialedition/mods/117986) for every melee weapons. They only change animations but allow more depth to combat and adaptation to environment (thrust attacks in tunnels, horizontal sweeps against multiple enemies, etc...). And it looks cool
 - **Quickstep dodges** - For you and some roguish NPCs
 - **Rebalanced Stealth** - Realistic AI Detection makes light and noise more decisive
 - **Rebalance of Combat**, stealth, magic, crafting and cooking - everything useful and effective (even wards !)
 - **Spears** - With fully integrated animations, perks compatibility (2 handed swords) and NPC distribution
 - **Scrolls & Staff crafting**
-- **New Spells** - Vanilla magic has been improved while staying true to Skyrim's spirit with Mysticism and Lost Grimoires
+- **New Spells** - Vanilla magic has been improved while staying true to Skyrim's spirit with [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) and [Lost Grimoires](https://www.nexusmods.com/skyrimspecialedition/mods/4455)
 - **Ward spells redone** - Rebalanced cost and effectiveness + wards now block melee attacks and arrows 
-- **New Skills and Perks** - **Stormcrown** dragonborn perks, **Hand to Hand** brawler perks, **Security** perks (merged pickpocket and lockpicking)
-- **New Bard mechanics** - Skyrim's Got Talent: play instruments, improve and unlock new skills in Speech to provide buffs for you and your followers
-- **Vampire overhaul** - **Sacrilege** from **Enairim**. You can avoid sun penalties by covering your head
-- **Werewolf overhaul** - **Manbeast** from **Simonrim**
-- **Cooking overhaul** - **Gourmet** from **Simonrim**. Meals provide diverse buffs
-- **Horses overhaul** - Better control and animations with HorsePower
+- **New Skills and Perks** - [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) dragonborn perks, [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790) brawler perks, **Security** perks (merged pickpocket and lockpicking) from [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
+- **New Bard mechanics** - [Skyrim's Got Talent](https://www.nexusmods.com/skyrimspecialedition/mods/50357): play instruments, improve and unlock new skills in Speech to provide buffs for you and your followers
+- **Vampire overhaul** - [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) from **Enairim**. You can avoid sun penalties by covering your head
+- **Werewolf overhaul** - [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) from **Simonrim**
+- **Cooking overhaul** - [Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876) from **Simonrim**. Meals provide diverse buffs
+- **Horses overhaul** - Better control and animations with [HorsePower](https://www.nexusmods.com/skyrimspecialedition/mods/169335)
 - **Grab and Throw** any item to distract ennemies or just for fun
 - You can jump WHILE sprinting - Be wary, this is incredibly satisfying. You will jump around a lot
-- **Nether Follower Framewor**k - Multiple followers, custom dynamic outfits, custom player home, ...
+- Enhanced followers management - Multiple followers, custom dynamic outfits, custom player home, etc... - with [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653)
 - **QoL** improvements to **Hearthfire**
 
 # 🗺️ Immersion

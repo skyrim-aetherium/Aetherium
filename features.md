@@ -12,7 +12,7 @@
 - **Complete NPCs makeover** - Lore-friendly overhaul of every races and faces
 - Enhanced every major town and place with [JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289)
 - **Katanas** & **Spears** reanimated
-- **New VFX** for spells, flames and dragon breath
+- **New VFX** for spells, flames, dragon breath, snow, ...
 
 
 # ⚔️ Gameplay

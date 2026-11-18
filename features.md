@@ -82,4 +82,5 @@
 - Numerous quality-of-life improvements and bug fixes that should have been part of vanilla Skyrim
 
 # 📈 Stable
-The collection has been built around the most community approved and robust mods. Stability & balance are the main concerns of Skyrim Aetherium.
+The collection has been built around the most community approved and robust mods. 
+Stability & balance are the main concerns of Skyrim Aetherium.

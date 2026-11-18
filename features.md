@@ -70,7 +70,8 @@
 
 # 🔉 Audio
 - **Audio redone** - Sounds and acoustic reverb overhauled for combat, impacts, magic, weather, ...
-- **New musical tracks** - Faithful to Jeremy Soul's style (Celtic Music in Skyrim - SE and The Northen Diaries)
+- **New musical tracks** - Faithful to Jeremy Soul's style ([Celtic Music in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/2980), [The Northen Diaries](https://www.nexusmods.com/skyrimspecialedition/mods/28108) and [Chapter II - Jeremy Soule Inspired Music
+](https://www.nexusmods.com/skyrimspecialedition/mods/37792)
 - **New ambient sounds** - The world around you is alive
 
 # ⚙️ Highly customizable

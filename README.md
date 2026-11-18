@@ -2,6 +2,7 @@
 
 <p align="center">
     <a href="https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0">Nexus Collection</a> |
+    <a href="https://discord.gg/HaXuSs8NfF">Discord</a> |
     <a href="https://github.com/skyrim-aetherium/Aetherium">Wabbajack</a> |
     <a href="https://loadorderlibrary.com/lists/skyrim-aetherium-final">Load Order</a> |
     <a href="https://github.com/skyrim-aetherium/Aetherium/blob/main/gallery.md">Screenshots</a> |
@@ -31,9 +32,9 @@
 <a id="features"></a>
 ![Features title](https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/titles/aetherium_title_features.png)
 - **Plug-and-play** | Beginner friendly
-- **Vanilla++** | Enhanced without becoming a different game - built around **Simonrim** with cherry-picked content from **Enaisiaion** and **colinswrath**
+- **Vanilla++** | Enhanced without becoming a different game - built around [Simonrim](https://www.nexusmods.com/games/skyrimspecialedition/collections/z5ju7v) with cherry-picked content from [Enaisiaion](https://www.nexusmods.com/profile/EnaiSiaion/mods) and [colinswrath](https://www.nexusmods.com/profile/colinswrath/mods?gameId=1704)
 - **Lore-Friendly** | Every added content blends seamlessly into the world
-- **Prettier than ever** | Improved textures, meshes, shaders and animations around **Community Shaders**, **NAT.CS III** and **Lux**
+- **Prettier than ever** | Improved textures, meshes, shaders and animations around [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492), [NAT.CS III](https://www.nexusmods.com/skyrimspecialedition/mods/139567) and [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)
 - **Immersive** | A slower pace, more meaningful progression without becoming tedious
 - **Expanded Quests** | Most quests have new possibilities and offer choices that matter
 - **Living world** | The world is alive and evolves around your actions (even when you're not there)
@@ -43,7 +44,7 @@
 - **Magic & Spells** rebalanced and expanded | Every school of magic is now perfectly valid thanks to Mysticism and Lost Grimoire
 - **New** armors, weapons, outfits, mage robes, staves, backpacks, spells and animated spears - All lore friendly
 - **Extended Crafting** | Scrolls and staves crafting, artisans services and many more recipes
-- **User Interface** redone with a classic RPG look - **Dear Diary paper menus**
+- **User Interface** redone with a classic RPG look - [Dear Diary paper menus](https://www.nexusmods.com/skyrimspecialedition/mods/23010)
 - **Improved HUD** | Practical, lightweight and immersive 
 - **Reputation System** | Your actions have consequences and people will react accordingly
 - **Dragonborn skill tree** | Learn with the Greybeards to unlock the meditate power and spend your dragon souls to improve your shouting abilities

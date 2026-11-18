@@ -3,7 +3,7 @@
 <details><summary>Further Configuration</summary>
   
 ### **Config Files**
-Many mods can be manually configured from their `.ini` files usually located here : `\Skyrim Special Edition\Data\skse\plugins\` (or in the Wabbajack instance) - Edit them at your own risk
+Many mods can be manually configured from their `.ini` files usually located here : `\Skyrim Special Edition\Data\skse\plugins\` (or in `\mods` folder if using Wabbajack) - Edit them at your own risk
 
 ### In game menus
 

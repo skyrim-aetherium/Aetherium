@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://www.nexusmods.com/games/skyrimspecialedition/collections/v1lgh0">Nexus Collection</a> |
     <a href="https://discord.gg/HaXuSs8NfF">Discord</a> |
-    <a href="https://github.com/skyrim-aetherium/Aetherium">Wabbajack</a> |
+    <a href="https://github.com/skyrim-aetherium/Aetherium/blob/main/README.md#-wabbajack-installation-guide">Wabbajack</a> |
     <a href="https://loadorderlibrary.com/lists/skyrim-aetherium-final">Load Order</a> |
     <a href="https://github.com/skyrim-aetherium/Aetherium/blob/main/gallery.md">Screenshots</a> |
     <a href="https://www.youtube.com/watch?v=A1CbvUX1j8U">Youtube Trailer</a> |

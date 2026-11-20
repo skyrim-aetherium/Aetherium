@@ -27,7 +27,16 @@
 
 Of course ! You can add and remove any mod, it's all yours. Here is a short list of categories I strongly suggest **not** to expand further to avoid conflicts :
 
-➡️ NPC AI, combat AI, vampire, werewolf, follower framework (NFF), daedric quests, guilds quests and main quest.
+- NPC AI
+- combat AI
+- vampire system
+- werewolf system
+- follower framework (NFF)
+-  daedric quests
+-  guilds quests and main quest
+-  Main cities expansion/redone
+-  Default races
+-  Experience and leveling
 
 > ⚠️ **Skyrim Aetherium** comes with pre-generated assets for **Nemesis**, **DynDOLOD** and **Synthesis**
 

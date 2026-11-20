@@ -42,7 +42,7 @@ Of course ! You can add and remove any mod, it's all yours. Here is a short list
 
 Installing the following types of mods might requires to manually rerun those patcher on your side:
 
-- Adding new **textures and mesh** for landscape, architecture and flora requires to rerun **DynDOLOD**
+- Adding new **textures and mesh** for landscape, architecture and flora requires to rerun **DynDOLOD** (DynDOLOD output + TexGen output), PGpatcher if using parallax, and ACMOS if editing terain
 - Adding new **enemies, creatures**, **npc** or **quest** requires to rerun **Synthesis patcher** (see [**Aetherium SOAP**](https://www.nexusmods.com/skyrimspecialedition/mods/186196) for detailed list of required patches).
 - Adding new **animations**: some requires to rerun **Nemesis** (check on their mod description page)
 

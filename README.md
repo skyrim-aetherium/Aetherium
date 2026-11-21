@@ -89,7 +89,7 @@ Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com
 1. Install Skyrim's latest version through **Steam**, in **English**
 2. Launch it once
 3. Download [Wabbajack](https://www.wabbajack.org/) and place it in a dedicated folder (like: `C:\Wabbajack`)
-4. Download [Skyrim Aetherium.wabbajack](https://build.wabbajack.org/authored_files/download/Skyrim.Aetherium.wabbajack_dac5f358-0a93-401f-8ac8-dac2a325ad42)
+4. Download [Skyrim Aetherium.wabbajack](https://build.wabbajack.org/authored_files/download/Skyrim%20Aetherium.wabbajack_cdd11844-4983-482b-9aab-9b8b552fdcc5)
 5. Run `skyrim.aetherium.wabbajack`
 6. Follow the download and installation process
     - If asked "_files that are not part of the modlist will be deleted_", click `Continue`

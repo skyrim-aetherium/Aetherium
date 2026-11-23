@@ -8,7 +8,7 @@
   - Updated [Skyrim Aetherium - Synthesis Patch](https://www.nexusmods.com/skyrimspecialedition/mods/186196) to 1.1.0 accordingly.
 - Added [Andrealletius Papyrus Functions](https://www.nexusmods.com/skyrimspecialedition/mods/85252). It was a missing dependency for optionals AE mods.
 - Added [CC Farming - Tweaks Enhancements and Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/69029). It was a missing dependency for optionals AE mods.
-- Removed **VioLens - A Killmove Mod SE**.It was conflicting with several other mods and ultimately broke melee killcams.
+- Removed **VioLens - A Killmove Mod SE**. It was conflicting with several other mods and ultimately broke melee killcams.
 
 ⚠️ **NOT SAFE** to update at any time - this version **requires** a new game. Ongoing playthrough **will** break !!
 

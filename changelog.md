@@ -1,9 +1,8 @@
-### ℹ️ What versions means ?
-- **1**.x.x are **Major** versions, a **new game** is required
-- x.**1**.x are **Minor** versions, they **can require** a new game, see details of the specific version
-- x.x.**1** are **Patch** versions, you can **update at any time** without **any risk**
+> ### ℹ️ What versions means ?
+> - **1**.x.x are **Major** versions, a **new game** is required
+> - x.**1**.x are **Minor** versions, they **can require** a new game, see details of the specific version
+> - x.x.**1** are **Patch** versions, you can **update at any time** without **any risk**
 
-# Changelog
 ## 🔵 1.1.0 - ⚠️ Requires new character
 - Added [Apprentice - A Class Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/169288) from Simonrim. This addition will expand character builds possibilities.
   - Updated [Skyrim Aetherium - Synthesis Patch](https://www.nexusmods.com/skyrimspecialedition/mods/186196) to 1.1.0 accordingly.

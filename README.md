@@ -104,6 +104,10 @@ Follow the dedicated "Installation" chapter at Nexus : https://www.nexusmods.com
 14. Manually save and **RELOAD** the game
 15. Go to bed
 
+> ⚠️ **Anniversary Edition users**: If you are having issue during Wabbajack installation ("_2 files could not be fetched: curios.bsa and curios.esp_"), you can fix it by veryfing file integrity from Steam.
+> 
+> See this post: https://discord.com/channels/1572260621557432432/1573287588968665129
+
 ## 🔵 Recommended Hardware
 Skyrim Aetherium was built for optimal balance around the following hardware setup.
 

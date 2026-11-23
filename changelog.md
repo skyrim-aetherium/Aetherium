@@ -10,7 +10,7 @@
 - Added [CC Farming - Tweaks Enhancements and Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/69029). It was a missing dependency for optionals AE mods.
 - Removed **VioLens - A Killmove Mod SE**. It was conflicting with several other mods and ultimately broke melee killcams.
 
-⚠️ **NOT SAFE** to update at any time - this version **requires** a new game. Ongoing playthrough **will** break !!
+⚠️ **NOT SAFE** to update mid playthrough - this version **requires** a new game. Ongoing playthrough **will** break !!
 
 ## 🔵 1.0.1 - bugfix
 - Added [Prisoner Cart Opening Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60968) to fix the infamous vanilla start cart going all over the place.

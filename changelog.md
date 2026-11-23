@@ -15,6 +15,6 @@
 ## 🔵 1.0.1 - bugfix
 - Added [Prisoner Cart Opening Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60968) to fix the infamous vanilla start cart going all over the place.
 
-Safe to update at any time (except during the intro)
+✅ **Safe** to update at any time (except during the intro)
 
 ## 🔵 1.0.0 - Initial Release

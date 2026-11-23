@@ -21,20 +21,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/skyrim-aetherium/Aetherium/refs/heads/main/images/AetheriumSplash-1920x1080.webp",
       "readme": "https://github.com/skyrim-aetherium/Aetherium",
-      "download": "https://build.wabbajack.org/authored_files/download/Skyrim.Aetherium.wabbajack_dac5f358-0a93-401f-8ac8-dac2a325ad42",
+      "download": "https://build.wabbajack.org/authored_files/download/Skyrim%20Aetherium.wabbajack_3adef641-a5d4-451f-b9a1-360c3f623efa",
       "machineURL": "SkyrimAetherium",
       "discordURL": "https://discord.gg/HaXuSs8NfF"
     },
     "download_metadata": { 
-      "Hash":"sd4OlmNzkGk=",
-	  "Size":6185799,
-	  "NumberOfArchives":894,
-	  "SizeOfArchives":99494382229,
-	  "NumberOfInstalledFiles":128486,
-	  "SizeOfInstalledFiles":156805747519,
-	  "TotalSize":256300129748
+	  "Hash":"QVsfnBqhrW4=",
+	  "Size":6235181,
+	  "NumberOfArchives":899,
+	  "SizeOfArchives":99513708512,
+	  "NumberOfInstalledFiles":128626,
+	  "SizeOfInstalledFiles":156899952247,
+	  "TotalSize":256413660759
     },
-    "version": "1.0.1"
+    "version": "1.1.0"
   }
 ]
 

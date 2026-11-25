@@ -52,6 +52,9 @@ The collection was built and tested **exclusively** on **Skyrim Special Edition*
 
 > ℹ️ The worst you can expect when using **Skyrim AE** with **CC content enabled** is minor inconsistencies or visual glitches affecting Creation Club content only.
 
+Creation Club menu is disable from the main menu by default. To enable it again, reinstall Dear Diary and select the option to keep the CC menu. 
+Remember to check the option for MoreHUD I.E replacer.
+
 ### 🔵 How to enable nude bodies ?
 
 Nude bodies are disabled by default, if you want to enable them you can reinstall **CBBE** and **Tempered Skins for Males** in Vortex and select your preferred body shapes from the FOMOD installer
